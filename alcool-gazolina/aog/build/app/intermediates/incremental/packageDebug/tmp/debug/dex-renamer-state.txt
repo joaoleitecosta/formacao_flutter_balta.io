@@ -1,0 +1,4 @@
+#Tue Dec 03 13:30:52 GMT-03:00 2019
+base.0=C\:\\Users\\JOAO\\OneDrive\\cursos\\flutter\\alcool-gazolina\\aog\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
